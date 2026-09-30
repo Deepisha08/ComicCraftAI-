@@ -1,3 +1,0 @@
-"""
-ComicCraft service modules.
-"""
